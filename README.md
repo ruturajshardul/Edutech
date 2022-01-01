@@ -1,0 +1,3 @@
+# Edutech
+this is just a basic home page os educational website please note it is not responsive 
+in this page i have used some basic features that all pages has those are background image, hover effect tabs footer etc...
